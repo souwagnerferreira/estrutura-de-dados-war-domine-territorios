@@ -32,6 +32,7 @@
 // --- Função Principal (main) ---
 // Função principal que orquestra o fluxo do jogo, chamando as outras funções em ordem.
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
